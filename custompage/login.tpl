@@ -28,7 +28,7 @@
                             {% endif %}
                             <div class="form-group">
                                 <label for="user">{{ 'LoginOrEmailAddress'|get_lang() }}</label>
-                                <input type="text" class="form-control" id="user" name="login" ">
+                                <input type="text" class="form-control" id="user" name="login">
                             </div>
                             <div class="form-group">
                                 <label for="password">{{ 'Password'|get_lang() }}</label>
